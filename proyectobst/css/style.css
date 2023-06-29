@@ -1,0 +1,23 @@
+H1,
+H2,
+H3,
+H4,
+H5,
+H6 {
+    font-family: 'Anton', sans-serif;
+}
+
+.icono {
+    font-size: 50px;
+    color: green;
+}
+
+:root {
+    --rojo: red;
+    --amarillo: blue;
+    --azul: #0072ffe6;
+}
+
+.parrafo {
+    color: var(--azul);
+}
